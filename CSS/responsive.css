@@ -32,7 +32,7 @@
 }
 
 @media (max-width: 425px) {
-    main .personagem .imagem {
+    main .conto .imagem {
         height: auto;
     }
 
